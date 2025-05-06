@@ -1,11 +1,19 @@
 ## Hello 👋
-* I’m currently working as a lecturer in information system study program and developer for some organizations.
-* I've been working for more than 12 years in information technology.
+* I’m currently working as a lecturer in information system study program and an application developer for some organizations.
+* I've been working for more than 12 years in information technology field.
+* My current research focuses on the integration of artificial intelligence and software.
 
 ## Skills
-For more than 12 years i have been using several programming languages. 
+For more than 12 years I've been using several programming languages to help me in working on projects. 
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,laravel,python)](https://skillicons.dev)
+### Frontend
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap)](https://skillicons.dev)
+
+### Backend
+[![My Skills](https://skillicons.dev/icons?i=laravel,python,java,nodejs)](https://skillicons.dev)
+
+### Database
+[![My Skills](https://skillicons.dev/icons?i=mysql,postgresql,mongodb)](https://skillicons.dev)
 <!--
 **pesantrenilmu/pesantrenilmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
