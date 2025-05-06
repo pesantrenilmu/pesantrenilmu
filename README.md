@@ -1,6 +1,9 @@
 ## Hello 👋
-I’m currently working as a lecturer in information system study program
+* I’m currently working as a lecturer in information system study program and developer for some organizations.
+* I've been working for more than 12 years in information technology.
 
+## Skills
+I've 
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,laravel,python)](https://skillicons.dev)
 <!--
 **pesantrenilmu/pesantrenilmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
