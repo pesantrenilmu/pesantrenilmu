@@ -1,7 +1,7 @@
 ## Hello 👋
 * I’m currently working as a lecturer in information system study program and an application developer for some organizations.
 * I've been working for more than 12 years in information technology field.
-* My current research focuses on the integration of artificial intelligence and software.
+* My current research focuses on implementing artificial intelligence, especially computer vision.
 
 ## Skills
 For more than 12 years I've been using several programming languages to help me in working on projects. 
