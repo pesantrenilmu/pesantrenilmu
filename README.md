@@ -1,7 +1,7 @@
 ## Hello 👋
 - 🔭 I’m currently working as a lecturer in information system study program
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,reactjs,laravel,python)](https://skillicons.dev)
 <!--
 **pesantrenilmu/pesantrenilmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
