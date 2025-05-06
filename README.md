@@ -7,7 +7,7 @@
 For more than 12 years, I've been using several programming languages to help me in working on projects. 
 
 ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,flutter,react,tailwind,bootstrap)](https://skillicons.dev)
 
 ### Backend
 [![My Skills](https://skillicons.dev/icons?i=laravel,python,java,nodejs)](https://skillicons.dev)
