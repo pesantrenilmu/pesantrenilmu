@@ -4,7 +4,7 @@
 * My current research focuses on implementing artificial intelligence, especially computer vision.
 
 ## Skills
-For more than 12 years I've been using several programming languages to help me in working on projects. 
+For more than 12 years, I've been using several programming languages to help me in working on projects. 
 
 ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=nextjs,react,tailwind,bootstrap)](https://skillicons.dev)
